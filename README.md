@@ -10,3 +10,9 @@
 <h3 align="left">Connect with me:</h3>
 <a href="mailto:anantjitchander@gmail.com" target="blank">Email</a>
 
+<h2>What I love:</h2>
+<br>
+<h2>Aliens</h2>
+<h2>Science</h2>
+<h2>Coding</h2>
+<h2>LEGO</h2>
