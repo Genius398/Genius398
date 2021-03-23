@@ -16,6 +16,11 @@
 <h2>Science</h2>
 <h2>Coding</h2>
 <h2>LEGO</h2>
+<h2>ISRO (Indian Space Research Organisation)</h2>
+<h2>Space and Black Holes</h2>
+<h2>Time Travel</h2>
+<h2>The Multiverse Theory</h2>
+<h2>Weird Stuff and Theories</h2>
 <br>
 <br>
 <br>
@@ -28,3 +33,5 @@
 <h2>HTML</h2>
 <h2>CSS</h2>
 <h2>JS</h2>
+<h2>Python</h2>
+
