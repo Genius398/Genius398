@@ -9,6 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="mailto:anantjitchander@gmail.com" target="blank">Email</a>
+<a href="https://github.com/genius398/genius398/issues" target="blank_">Through Github</a>
+<a href="https://scratch.mit.edu/users/genius398#comments" target="blank_">Through Scratch</a>
 
 <h2>What I love:</h2>
 <br>
