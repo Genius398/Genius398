@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grahamsh-llk&margin-w=15&margin-h=15" alt="grahamsh-llk" /></a> </p>
 
-- 🔭 I’m currently working on my Sign Language Website. View it <a href="https://github.com/Genius398/The-Sign-Langauge-Web-App" target="blank_">here!</a>
-
 <h3 align="left">Connect with me:</h3>
 <a href="mailto:anantjitchander@gmail.com" target="blank">Email</a>
 <br>
