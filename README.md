@@ -39,14 +39,14 @@
 <h2>JSON</h2>
 
 
-Owner of <a href="github.com/educational-websites" target="blank_">@Educational-Websites</a>
+Owner of <a href="https://github.com/educational-websites" target="blank_">@Educational-Websites</a>
 
 Shoutout to:
 <br>
-<a href="github.com/Super45Coder" target="blank_">Super45Coder</a>
+<a href="https://github.com/Super45Coder" target="blank_">Super45Coder</a>
 <br>
-<a href="github.com/Sreehari521" target="blank_">Sreehari521</a>
+<a href="https://github.com/Sreehari521" target="blank_">Sreehari521</a>
 <br>
-<a href="github.com/somePythonProgrammer" target="blank_">somePythonProgrammer</a>
+<a href="https://github.com/somePythonProgrammer" target="blank_">somePythonProgrammer</a>
 
 <br> for helping in the organisation
