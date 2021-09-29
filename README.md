@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Genius398</h1>
+<h2 align="center" style="font-weight:bold;">THANKS FOR 100+ FOLLOWERS!</h2>
 <h3 align="center">Coder and Scratcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Genius398&label=Profile%20views&color=0e75b6&style=flat" alt="grahamsh-llk" /> </p>
