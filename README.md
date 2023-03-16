@@ -37,10 +37,8 @@
 <h2>CSS</h2>
 <h2>JS</h2>
 <h2>Python</h2>
-<h2>JSON</h2>
 
 
-Owner of <a href="https://github.com/educational-websites" target="blank_">@Educational-Websites</a>
 
 Shoutout to:
 <br>
@@ -52,4 +50,3 @@ Shoutout to:
 <br>
 <a href="https://github.com/e-coders" target="blank_">E-Coders</a>
 
-<br> for helping in the organisation
